@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "e0ne's comments"
+theme = "hurock"
+
+[author]
+  name = "Ivan Kolodyazhny"
+  email = "e0ne@e0ne.info"
+
+  github = "e0ne"
+  twitter = "e0ne"
+  facebook = ""
+  linkedin = ""
+
+[taxonomies]
+   tag = "tags"
+   category = "category"
