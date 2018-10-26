@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://blog.e0ne.info/"
 languageCode = "en-us"
 title = "e0ne's comments"
-theme = "hurock"
+theme = "e0ne"
 
 [author]
   name = "Ivan Kolodyazhny"
@@ -9,9 +9,14 @@ theme = "hurock"
 
   github = "e0ne"
   twitter = "e0ne"
-  facebook = ""
-  linkedin = ""
+  facebook = "ivan.kolodyazhny"
+  linkedin = "ivankolodyazhny"
+  youtube = "UCbLJnzbTU83-htkXQykqgAg"
+
+#[permalinks]
+#   post = "/:year/:filename"
 
 [taxonomies]
    tag = "tags"
    category = "category"
+   archive = "archives"
