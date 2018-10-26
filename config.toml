@@ -1,7 +1,7 @@
 baseURL = "http://blog.e0ne.info/"
 languageCode = "en-us"
 title = "e0ne's comments"
-theme = "e0ne"
+theme = "e0ne-hugo"
 
 [author]
   name = "Ivan Kolodyazhny"
