@@ -1,4 +1,4 @@
-baseURL = "http://blog.e0ne.info/"
+baseURL = "https://blog.e0ne.info/"
 languageCode = "en-us"
 title = "e0ne's comments"
 theme = "e0ne-hugo"
