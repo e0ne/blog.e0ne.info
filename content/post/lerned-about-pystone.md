@@ -1,5 +1,5 @@
 ---
-title: "Lerned About Pystone"
+title: "Learned About Pystone"
 date: 2019-01-04T15:27:15+02:00
 category: [python, offtopic]
 tags: [python, benchmark]
