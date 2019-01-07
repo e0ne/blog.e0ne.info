@@ -11,7 +11,7 @@ author: Ivan Kolodyazhny
 is a simple Python benchmark which is included in a standard library.
 
 As any other benchmark you need to be careful with its' results. It was
-interestings how fast are my environments:
+interestings how fast are my environments. All tests were done using `python3 -m test.pystone` command.
 
 * Intel Core i5 4590 @ 3.30GHz:
 
@@ -27,7 +27,14 @@ Pystone(1.2) time for 50000 passes = 0.315069
 This machine benchmarks at 158695 pystones/second
   ```
 
-* Intel Core i7 7567U @ 3.50GHz:
+* Intel Core i5 7567U @ 3.50GHz (MacBook Pro (13-inch, early 2013)):
+
+  ```python
+Pystone(1.2) time for 50000 passes = 0.5011208
+This machine benchmarks at 97807 pystones/second
+  ```
+
+* Intel Core i5 3230M @ 2.60GHz (MacBook Pro (13-inch, 2017))   :
 
   ```python
 Pystone(1.2) time for 50000 passes = 0.312304
