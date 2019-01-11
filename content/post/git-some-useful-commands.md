@@ -9,7 +9,7 @@ aliases:
     - post/git-some-useful-commands.aspx
 ---
 
-NOTE: English translation is here: [post/some-useful-git-commands-en/](post/some-useful-git-commands-en/)
+NOTE: English translation is [here](https://blog.e0ne.info/post/some-useful-git-commands-en/).
  
 
 Надоело постоянно гуглить одно и то же, решил записать в отдельную заметку.
