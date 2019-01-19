@@ -3,7 +3,7 @@ title: "ASP.NET + Mono + Apache"
 date: 2009-09-22T01:23:00+03:00
 draft: False
 category: [Mono,Web Development]
-tags: [asp.net,mono,linyx,apache]
+tags: [asp.net,mono,linux,apache]
 archives: [2009]
 aliases:
     - post/ASPNET-Mono-and-Apache.aspx
