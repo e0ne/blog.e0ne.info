@@ -1,9 +1,10 @@
 ---
 title: "Default Config Options"
 date: 2019-01-28T18:21:28+02:00
-archives: "2019"
+category: [software development]
 tags: []
-author: John SMITH
+archives: [2019]
+author: Ivan Kolodyazhny
 ---
 
 Once your project becomes a bit bigger than ‘Hello, World’, you need to add an
