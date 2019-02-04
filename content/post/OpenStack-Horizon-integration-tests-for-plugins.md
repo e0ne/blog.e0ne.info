@@ -131,3 +131,6 @@ tox -e integration
 
 A sample code could be found here:
 [https://review.openstack.org/634487](https://review.openstack.org/634487)
+
+
+*UPDATE*: Part 2, CI setup is [here](post/openstack-horizon-integration-tests-for-plugins-ci/).
