@@ -2,7 +2,7 @@
 title: "How to Get Hardware Info in MacOS From CLI"
 date: 2019-02-07T23:15:45+02:00
 archives: "2019"
-category: [*nix]
+category: [nix]
 tags: [macos,cli,hardware]
 author: Ivan Kolodyazhny
 ---
