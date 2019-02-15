@@ -3,7 +3,7 @@ title: "Benefits of the Automation"
 date: 2019-01-23T21:48:28+02:00
 archives: "2019"
 category: [offtopic]
-tags: [automation, everything as a code]
+tags: [automation, everything as a code, everything-as-a-code]
 archives: [2019]
 author: Ivan Kolodyazhny
 ---

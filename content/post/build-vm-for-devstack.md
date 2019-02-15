@@ -2,7 +2,7 @@
 title: "Build VM for Devstack"
 date: 2019-02-06T18:25:33+02:00
 archives: "2019"
-tags: []
+tags: [everything-as-a-code]
 author: Ivan Kolodyazhny
 ---
 

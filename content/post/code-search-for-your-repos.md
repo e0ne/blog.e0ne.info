@@ -2,7 +2,7 @@
 title: "Code Search for Your Repos"
 date: 2019-01-25T21:32:33+02:00
 category: [notes]
-tags: [sources, grep, hound]
+tags: [sources, grep, hound, everything-as-a-code]
 archives: [2019]
 author: Ivan Kolodyazhny
 ---

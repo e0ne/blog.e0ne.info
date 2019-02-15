@@ -2,7 +2,7 @@
 title: "Diskimage-builder in Docker"
 date: 2019-01-17T21:08:04+02:00
 category: [linux]
-tags: [development environment]
+tags: [development environment, everything-as-a-code]
 archives: [2019]
 author: Ivan Kolodyazhny
 ---

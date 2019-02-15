@@ -3,7 +3,7 @@ title: "Remote console via SSH with own bashrc"
 date: 2017-08-09T22:00:00+03:00
 draft: False
 category: [Linux]
-tags: [bash,ssh,shell]
+tags: [bash,ssh,shell,everything-as-a-code]
 archives: [2017]
 aliases:
     - post/remote-console-via-SSH-with-own-bashrc.aspx

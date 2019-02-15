@@ -2,7 +2,7 @@
 title: "Not a DNS Server for Libvirt"
 date: 2019-01-18T22:36:28+02:00
 category: [linux]
-tags: [development environment, linux, libvirt, kvm, qumy, hack]
+tags: [development environment, linux, libvirt, kvm, qumy, hack, everything-as-a-code]
 archives: [2019]
 author: Ivan Kolodyazhny
 ---
