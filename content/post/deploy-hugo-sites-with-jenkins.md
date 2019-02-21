@@ -2,7 +2,7 @@
 title: "Deploy Hugo Sites With Jenkins"
 date: 2019-02-17T20:54:46+02:00
 category: [blog]
-tags: [hugo, jenkins, static site]
+tags: [hugo, jenkins, static site, development environment, everything-as-a-code, ci]
 archives: [2019]
 ---
 I’ll describe how I do my [Hugo](https://gohugo.io/)-based blog updates with

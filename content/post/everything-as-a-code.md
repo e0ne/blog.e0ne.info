@@ -2,7 +2,7 @@
 title: "Everything as a Code"
 date: 2019-01-16T22:33:35+02:00
 category: [offtopic]
-tags: [ansible, development environment]
+tags: [ansible, development environment, everything-as-a-code, ci]
 archives: [2019]
 author: Ivan Kolodyazhny
 ---
