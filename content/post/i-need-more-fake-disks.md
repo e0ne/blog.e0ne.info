@@ -2,7 +2,7 @@
 title: "I need more (fake) disks"
 date: 2019-01-24T21:52:22+02:00
 category: [linux]
-tags: [losetup, devices, loopback, lvm, disks]
+tags: [losetup, devices, loopback, lvm, disks, linux]
 archives: [2019]
 author: Ivan Kolodyazhny
 ---
