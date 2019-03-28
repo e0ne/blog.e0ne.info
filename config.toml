@@ -11,7 +11,7 @@ theme = "e0ne-hugo"
   twitter = "e0ne"
   facebook = "ivan.kolodyazhny"
   linkedin = "ivankolodyazhny"
-  youtube = "UCbLJnzbTU83-htkXQykqgAg"
+  youtube = "channel/UCbLJnzbTU83-htkXQykqgAg"
 
 #[permalinks]
 #   post = "/:year/:filename"
