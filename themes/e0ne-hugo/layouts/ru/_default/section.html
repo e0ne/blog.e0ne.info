@@ -1,0 +1,15 @@
+-<h1>{{ with .Site.GetPage "section" "ru" }}{{ .Title }}{{ end }}</h1>-
+
+<section id="menu">
+    <ul>
+        {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+        <li> {{ $key }} </li>
+        <ul>
+            {{ range $taxonomy.Pages }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </ul>
+</section>
+

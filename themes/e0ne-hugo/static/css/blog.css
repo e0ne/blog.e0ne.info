@@ -1,0 +1,109 @@
+html,body {
+    font-family: 'Open Sans', sans-serif;
+    background: #393939;
+    color: #fff;
+    }
+
+.hero.is-info {
+    background: #393939;
+}
+.hero-body {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+.mysocial { color: hsl(0, 0%, 100%);}
+.mysocial:hover { color: hsl(0, 0%, 71%) }
+
+
+.title {
+    color: #d0eb55;
+}
+
+
+.navbar {
+    background: #393939;
+}
+
+.navbar-item{
+    color : #fff;
+}
+
+/* e0ne */
+
+.box {
+    background-color: #393939;
+    box-shadow: none;
+    color: #fff;
+}
+
+.card {
+    background-color: #393939;
+    box-shadow: none;
+    color: #fff;
+}
+a {
+    color : #d0eb55;
+    background : inherit;
+    text-decoration : none;
+}
+
+a:hover {
+color : #d0eb55;
+background : inherit;
+text-decoration : underline;
+}
+
+p {
+/*margin : 5px 0;*/
+color: #fff;
+/*font : 1.1em Arial, sans-serif;*/
+/*line-height: 1.5em;*/
+/*text-align:justify;*/
+}
+
+.content table thead tr th, .content table thead  {
+    color: #fff;
+}
+
+strong {
+    color: #fff;
+}
+
+.tag:not(body) {
+    background-color: #393939;
+}
+
+.pagination-link, .pagination-next, .pagination-previous {
+     color : #d0eb55;
+     border-color: #212121;
+}
+
+.pagination-link.is-current {
+    background-color: #212121;
+    border-color: #212121;
+}
+
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+color : #d0eb55;
+}
+
+.archive {
+    font-size: 13px;
+}
+
+.archive tr td, .archive tr th {
+    border: none;
+    padding: 2px 0;
+    color: #fff;
+}
+
+
+.date {
+    width: 80px;
+}
+
+.hero.is-medium .hero-body {
+    padding-top: 25px;
+    padding-bottom: 10px;
+}

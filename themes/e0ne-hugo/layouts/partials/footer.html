@@ -1,0 +1,41 @@
+<footer class="footer has-background-grey-darker has-text-white">
+    <div class="content has-text-centered">
+        {{ if or .Site.Author.twitter .Site.Author.github .Site.Author.linkedin .Site.Author.youtube }}
+        <p>
+            <span class="icon is-large"><a href="https://blog.e0ne.info/index.xml" class="mysocial"><i class="fas fa-rss fa-3x"></i></a></span>&nbsp;&nbsp;
+            {{ with .Site.Author.twitter }}
+            <span class="icon is-large"><a href="https://twitter.com/{{ . }}" class="mysocial"><i class="fab fa-twitter fa-3x"></i></a></span>&nbsp;&nbsp;
+            {{ end }}
+            {{ with .Site.Author.github }}
+            <span class="icon is-large"><a href="https://github.com/{{ . }}" class="mysocial"><i class="fab fa-github fa-3x"></i></a></span>&nbsp;&nbsp;
+            {{ end }}
+            {{ with .Site.Author.linkedin }}
+            <span class="icon is-large"><a href="http://linkedin.com/in/{{ . }}" class="mysocial"><i class="fab fa-linkedin fa-3x"></i></a></span>&nbsp;&nbsp;
+            {{ end }}
+            {{ with .Site.Author.youtube }}
+            <span class="icon is-large"><a href="https://www.youtube.com/{{ . }}" class="mysocial"><i class="fab fa-youtube fa-3x"></i></a></span>&nbsp;&nbsp;
+            {{ end }}
+
+            <br><br>
+            Copyright &copy; {{ .Site.Title }} {{ now.Format "2006"}} - Theme by <a href="https://blog.e0ne.info" class="mysocial">e0ne</a>
+            - <a class="mysocial" href="{{ "about-me" | absURL }}">About</a>
+            <br>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+        </p>
+        {{ end }}
+    </div>
+</footer>
+
+<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3949097-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3949097-1');
+</script>
+
+</body>
+</html>

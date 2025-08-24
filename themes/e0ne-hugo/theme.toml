@@ -1,0 +1,20 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "e0ne"
+license = "MIT"
+licenselink = "https://github.com/e0ne/hugo-e0ne/blob/master/LICENSE"
+description = "A new dark theme blog for HUGO built with Bulma CSS. Including archives and tags widgets."
+homepage = "https://github.com/e0ne/hugo-e0ne"
+tags = ["simple","blog","theme","pagination","archives","tags","bulma","personal"]
+features = ["pagination","archives","tags"]
+min_version = "0.41"
+
+[author]
+  name = "e0ne"
+  homepage = "https://blog.e0ne.info"
+
+[original]
+  name = "Jeffprod"
+  homepage = "https://github.com/Tazeg/hugo-blog-jeffprod""
+  repo = "https://github.com/Tazeg/hugo-blog-jeffprod""
