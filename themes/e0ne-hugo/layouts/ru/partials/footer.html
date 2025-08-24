@@ -1,6 +1,6 @@
 <footer class="footer has-background-grey-darker has-text-white">
     <div class="content has-text-centered">
-        {{ if or .Site.Author.twitter .Site.Author.github .Site.Author.linkedin .Site.Author.youtube }}
+        {{ if or .Site.Params.Author.twitter .Site.Params.Author.github .Site.Params.Author.linkedin .Site.Params.Author.youtube }}
         <p>
             <span class="icon is-large"><a href="https://blog.e0ne.info/index.xml" class="mysocial"><i class="fas fa-rss fa-3x"></i></a></span>&nbsp;&nbsp;
             {{ with .Site.Author.twitter }}
